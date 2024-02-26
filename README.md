@@ -90,7 +90,7 @@ docker run -e "TOKEN=<discord-token>" eritislami/evobot
 - Command Handler from [discordjs.guide](https://discordjs.guide/)
 - Media Controls via Reactions
 
-![reactions](https://i.imgur.com/0hdUX1C.png)
+![reactions](https://imgur.com/RrBYTDc)
 
 ## 🌎 Locales
 
