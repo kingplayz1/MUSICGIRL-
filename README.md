@@ -43,7 +43,7 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 ## 🐬 Docker Configuration
 
-For those who would prefer to use our [Docker container](https://hub.docker.com/repository/docker/eritislami/evobot), you may provide values from `config.json` as environment variables.
+For those who would prefer to use our [Docker container](https://hub.docker.com/repository/docker/eritislami/MUSICGIRL-), you may provide values from `config.json` as environment variables.
 
 ```shell
 docker run -e "TOKEN=<discord-token>" eritislami/evobot
