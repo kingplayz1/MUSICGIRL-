@@ -4,9 +4,9 @@
 
 
 
-# 🤖 EvoBot (Discord Music Bot)
+# 🤖 MUSICGIRL (Discord Music Bot)
 
-> EvoBot is a Discord Music Bot built with TypeScript, discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
+> MUSICGIRL is a Discord Music Bot built with TypeScript, discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 ## Requirements
 
@@ -126,7 +126,7 @@ Currently available locales are:
 
 ## 🤝 Contributing
 
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
+1. [Fork the repository]()
 2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Stage changes `git add .`
